@@ -9,7 +9,7 @@
       "id": "did:web:fahminazirul20.github.io#key-1",
       "type": "Ed25519VerificationKey2020",
       "controller": "did:web:fahminazirul20.github.io",
-      "publicKeyMultibase": "z6MkwfH1xkm5M8Y3LroTC8ysGYDc71MBX5xo5YncVwq7Nrgf"
+      "publicKeyMultibase": "zDnaegHCbtijRDhQAbLwr82jcvTCFrRrk3MX9U8bUcRCUYZuG"
     }
   ],
   "authentication": [
